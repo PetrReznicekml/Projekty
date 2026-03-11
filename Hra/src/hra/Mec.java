@@ -1,8 +1,8 @@
 package hra;
 
 public class Mec {
-    public String nazev;
-    public int poskozeni;
+    private String nazev;
+    private int poskozeni;
 
     public Mec(String nazev, int poskozeni) {
         this.nazev = nazev;
